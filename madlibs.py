@@ -1,0 +1,10 @@
+a1 = input("Enter an adjective: ")
+n1 = input("Enter a noun: ")
+v1 = input("Enter a verb: ")
+n2 = input("Enter a noun: ")
+n3 = input("Enter a noun: ")
+print(f"Today I went to a {a1} zoo.")
+print(f"I saw a {n1} jumping up and down in its tree.")
+print(f"He {v1} through the large tunnel that led to its {n2}")
+print(
+    f"I got some peanuts and passed them through the cage to a gigantic gray {n3}.")
